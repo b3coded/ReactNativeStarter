@@ -1,5 +1,5 @@
 # React-Native-Starter
-## Contents
+## Libraries
   <ul style="list-style: none;">
     <li>React Navigation v3.0.0</li>
     <li>React Native v0.57.5</li>
